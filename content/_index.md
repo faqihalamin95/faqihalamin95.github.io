@@ -34,7 +34,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Learning & Projects'
+      title: 'My Learning & Projects'
       subtitle: ''
       text: |-
         I document my journey toward becoming a Data Engineer by building hands-on projects that mirror real-world challenges. My focus areas include:
@@ -70,15 +70,15 @@ sections:
     design:
       view: article-grid
       columns: '2'
-  # - block: collection
-  #   content:
-  #     title: Projects
-  #     filters:
-  #       folders:
-  #         - projects
-  #     count: '1'
-  #     order: desc
-  #   design:
-  #     view: article-grid
-  #     columns: '1'
+  - block: collection
+    content:
+      title: Projects
+      filters:
+        folders:
+          - projects
+      count: '1'
+      order: desc
+    design:
+      view: article-grid
+      columns: '1'
 ---
