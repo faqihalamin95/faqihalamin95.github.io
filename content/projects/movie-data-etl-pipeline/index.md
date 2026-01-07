@@ -5,9 +5,9 @@ date: 2026-01-03
 authors:
   - me
 tags:
+  - Project  
   - Data Engineering
   - Career Journey
-  - Search Evaluation
 cover:
   image: "cover.jpg"
 image:

@@ -5,9 +5,9 @@ date: 2025-12-22
 authors:
   - me
 tags:
+  - Blog
   - Data Engineering
   - Career Journey
-  - Search Evaluation
 cover:
   image: "cover.jpg"
 image:

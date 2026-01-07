@@ -5,6 +5,7 @@ date: 2025-10-17
 authors:
   - me
 tags:
+  - Blog
   - Data Engineering
   - Career Journey
   - Search Evaluation
