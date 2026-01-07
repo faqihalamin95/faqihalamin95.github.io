@@ -32,7 +32,6 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "navy"
         image:
           # Add your image background to `assets/media/`.
           filename: background.PNG
